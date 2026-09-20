@@ -1,4 +1,10 @@
-# Interpretable Traffic Sign Recognition — Intelligent Systems Project
+# IS - Interpretable Traffic Sign Recognition
+
+[![Language](https://img.shields.io/badge/Language-Python%203.8%2B-blue.svg)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/Framework-PyTorch-ee4c2c.svg)](https://pytorch.org/)
+[![YOLOv8](https://img.shields.io/badge/YOLO-v8-00ffff.svg)](https://docs.ultralytics.com/)
+
+[Presentation](presentation.pdf) | [Technical Report](report.pdf) | [Source Code](src/)
 
 This repository contains the code and documentation for the **Intelligent Systems Project (A.Y. 2025/2026)**.
 
@@ -27,6 +33,8 @@ IntelligentSystemProject/
 ├── src/
 │   ├── ProtoTree/                      # Pre-included and customized ProtoTree library (in order to use our custom training data)
 │   └── traffic_signs_IS_project.ipynb  # Main project notebook
+├── presentation.pdf                    # Project presentation slides
+├── report.pdf                          # Project final technical report
 └── README.md                           # This file
 ```
 
